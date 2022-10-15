@@ -1,4 +1,4 @@
-EXP 04 Inerfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller
+# EXP 04 Inerfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller
 ```
 Name : SUDHARSHNA LAKSHMI S
 Roll no : 212221230110
