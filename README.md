@@ -197,8 +197,11 @@ int main(void)
 ### after simulation 
 ![OUTPUT](./2.png)
 
-## Layout Diagram 
+### Layout Diagram 
 ![output](./3.png)
+
+###
+![output](./4.png)
 
 ## Result
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings.
